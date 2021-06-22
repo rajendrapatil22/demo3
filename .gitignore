@@ -1,0 +1,10 @@
+.project
+.classpath
+.mavenrc
+.settings/
+.idea/
+.mvn/
+mvnw
+mvnw.cmd
+spring-boot-restassured.iml
+target/
